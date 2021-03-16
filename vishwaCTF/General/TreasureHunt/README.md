@@ -1,4 +1,4 @@
-#Vishwa CTF 2021
+# Vishwa CTF 2021
 ## Treasure Hunt
 ### Informasi Soal
 | Kategori | Poin |
@@ -20,4 +20,4 @@ Setelah melakukan pencarian ternyata didapatkan bagian-bagian flag yang dipisah 
 [Twitter](https://twitter.com/cybercellviit/status/1370435371599761409)
 
 ## Flag
-a >vishwaCTF{w31c0m3_t0_v1shw4ctf}
+a > vishwaCTF{w31c0m3_t0_v1shw4ctf}
