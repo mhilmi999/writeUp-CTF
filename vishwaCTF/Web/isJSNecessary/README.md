@@ -7,7 +7,7 @@
 
 
 ## Deskripsi
-![image](https://raw.githubusercontent.com/mhilmi999/writeUp-CTF/main/vishwaCTF/Web/isJSNecessary/screenshot/soal.png)
+![image](https://raw.githubusercontent.com/mhilmi999/writeUp-CTF/main/vishwaCTF/Web/isJSNecessary/screenshot/soal.png)\
 [Is JS Necessary](https://isjsnecessary.vishwactf.com/)
 
 
