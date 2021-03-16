@@ -1,9 +1,18 @@
 # Vishwa CTF 2021
-## Treasure Hunt
+## Discord-bot
 ### Informasi Soal
 | Kategori | Poin |
 |----------|------|
 | Warmup | 353 |
 
 ## Deskripsi
-![image]()\
+![image](https://raw.githubusercontent.com/mhilmi999/writeUp-CTF/main/vishwaCTF/Warmup/Discord-bot/screenshot/soalDiscord-bot.png)\
+Try communicating with the VishwaCTFbot on our discord... it may respond with a flag...\
+```
+Syntax:$
+```
+\
+
+## Penyelesaian Soal
+Diberikan sebuah *clue* untuk mencari *Flag* pada Discord bot milik Vishwa CTF 2021 dengan melakukan chat yang mana\
+dimulai dengan *command* atau perintah\ > $
