@@ -10,7 +10,7 @@
 In the previous challenge's file, what was the ip of the person who entered the wrong credentials?
 
 ## Penyelesaian Soal
-Diberikan sebuah *clue* untuk mencari *Flag* pada file question.pcapng dari Soal sebelumnya yaitu [Commenting is the key]( <br />
+Diberikan sebuah *clue* untuk mencari *Flag* pada file question.pcapng dari Soal sebelumnya yaitu [Write up Commenting is the key](https://github.com/mhilmi999/writeUp-CTF/blob/main/vishwaCTF/Networking/CommentingistheKey/README.md)( <br />
 pada kali ini kami mencari alamat IP dari seseorang yang memasukan input dengan kesalahan password.<br />
 1. Menggunakan *tools* *wireshark* pada Kali Linux
 2. Kemudian masukan file dari soal [Comenting is the key](https://github.com/mhilmi999/writeUp-CTF/raw/main/vishwaCTF/Networking/CommentingistheKey/question.pcapng)
