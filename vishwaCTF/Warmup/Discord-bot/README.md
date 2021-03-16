@@ -11,8 +11,9 @@ Try communicating with the VishwaCTFbot on our discord... it may respond with a 
 ```
 Syntax:$
 ```
-\
+
 
 ## Penyelesaian Soal
 Diberikan sebuah *clue* untuk mencari *Flag* pada Discord bot milik Vishwa CTF 2021 dengan melakukan chat yang mana\
-dimulai dengan *command* atau perintah\ > $
+dimulai dengan *command* atau perintah\
+> $
