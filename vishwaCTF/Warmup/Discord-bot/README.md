@@ -18,7 +18,6 @@ Diberikan sebuah *clue* untuk mencari *Flag* pada Discord bot milik Vishwa CTF 2
 dimulai dengan *command* atau perintah
 > $
 > 
-
 <br /> 
 Kami mencoba berinteraksi pada bot tersebut sebagai berikut : 
 <br />
