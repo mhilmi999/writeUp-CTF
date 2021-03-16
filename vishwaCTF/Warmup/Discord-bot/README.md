@@ -17,8 +17,8 @@ Syntax:$
 Diberikan sebuah *clue* untuk mencari *Flag* pada Discord bot milik Vishwa CTF 2021 dengan melakukan chat yang mana\
 dimulai dengan *command* atau perintah
 > $
+Kami mencoba berinteraksi pada bot tersebut sebagai berikut : \
 
-Kami mencoba berinteraksi pada bot tersebut sebagai berikut :
 ![image](https://raw.githubusercontent.com/mhilmi999/writeUp-CTF/main/vishwaCTF/Warmup/Discord-bot/screenshot/ssChatVishwaBot.png)\
 
 ## Flag
