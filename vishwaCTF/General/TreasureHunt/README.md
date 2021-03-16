@@ -16,6 +16,8 @@
 Diberikan sebuah *clue* untuk menyari *Flag* dengan link Sosial Media penyelenggara pada Instagram, LinkedIn, dan twitter.
 Setelah melakukan pencarian ternyata didapatkan bagian-bagian flag yang dipisah menjadi 3 bagian baik itu dalam *tweet* twitter, *comment* pada LinkedIn, dan *caption* pada Instagram\
 [Instagram](https://www.instagram.com/p/BuY2bhkhboO/?igshid=e16idlinida)\
+<img align="right" alt="Programmer Gif" src="https://https://github.com/mhilmi999/writeUp-CTF/blob/main/vishwaCTF/General/TreasureHunt/screenshot/part1.png" width="350" />
+
 [LinkedIn](https://www.linkedin.com/company/cybercell-viit/posts/?feedView=all)\
 [Twitter](https://twitter.com/cybercellviit/status/1370435371599761409)
 
