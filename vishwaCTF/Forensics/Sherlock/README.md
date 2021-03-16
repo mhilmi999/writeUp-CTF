@@ -7,7 +7,7 @@
 
 ## Deskripsi
 ![image](https://raw.githubusercontent.com/mhilmi999/writeUp-CTF/main/vishwaCTF/Forensics/Sherlock/screenshot/decode.jpg)\
-Sherlock found a green envelope on its door step and this image.\
+Sherlock found a green envelope on its door step and this image.
 
 ## Penyelesaian Soal
 Diberikan sebuah *clue* untuk mencari *Flag* pada gambar decode.jpg yang berisikan foto Sherlock Holmes\
